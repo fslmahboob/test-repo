@@ -1,3 +1,3 @@
 # Git & GitHub - learning
 
-A fast-paced course for getting up to speed with Git and Github
+Testing Git and GitHub to get up to speed
